@@ -1,4 +1,4 @@
-package es.revengenetwork.fenix.inject.binder;
+package org.fenixteam.fenix.inject.binder;
 
 import com.google.inject.Binder;
 import org.jetbrains.annotations.NotNull;

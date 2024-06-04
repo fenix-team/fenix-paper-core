@@ -1,7 +1,7 @@
-package es.revengenetwork.fenix.paper.plugin;
+package org.fenixteam.fenix.paper.plugin;
 
-import es.revengenetwork.fenix.inject.binder.ProtectedBinder;
 import org.bukkit.plugin.java.JavaPlugin;
+import org.fenixteam.fenix.inject.binder.ProtectedBinder;
 import org.jetbrains.annotations.NotNull;
 
 @SuppressWarnings("unused")

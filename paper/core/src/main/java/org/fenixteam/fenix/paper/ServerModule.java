@@ -1,10 +1,10 @@
-package es.revengenetwork.fenix.paper;
+package org.fenixteam.fenix.paper;
 
 import com.google.inject.AbstractModule;
-import es.revengenetwork.fenix.inject.binder.ProtectedBinder;
-import es.revengenetwork.fenix.paper.plugin.InjectedPlugin;
-import es.revengenetwork.fenix.paper.plugin.PluginModule;
 import java.util.Collection;
+import org.fenixteam.fenix.inject.binder.ProtectedBinder;
+import org.fenixteam.fenix.paper.plugin.InjectedPlugin;
+import org.fenixteam.fenix.paper.plugin.PluginModule;
 import org.jetbrains.annotations.NotNull;
 
 @SuppressWarnings("unused")

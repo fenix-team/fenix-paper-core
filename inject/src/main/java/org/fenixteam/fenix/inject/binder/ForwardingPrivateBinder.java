@@ -1,4 +1,4 @@
-package es.revengenetwork.fenix.inject.binder;
+package org.fenixteam.fenix.inject.binder;
 
 import com.google.inject.Key;
 import com.google.inject.PrivateBinder;

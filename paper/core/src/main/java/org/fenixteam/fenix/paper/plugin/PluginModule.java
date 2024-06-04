@@ -1,9 +1,9 @@
-package es.revengenetwork.fenix.paper.plugin;
+package org.fenixteam.fenix.paper.plugin;
 
 import com.google.inject.Scopes;
-import es.revengenetwork.fenix.inject.ProtectedModule;
 import java.nio.file.Path;
 import org.bukkit.plugin.Plugin;
+import org.fenixteam.fenix.inject.ProtectedModule;
 import org.jetbrains.annotations.NotNull;
 import org.slf4j.Logger;
 

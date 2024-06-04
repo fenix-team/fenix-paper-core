@@ -1,11 +1,11 @@
-package es.revengenetwork.fenix.inject;
+package org.fenixteam.fenix.inject;
 
 import com.google.inject.Binder;
 import com.google.inject.Module;
-import es.revengenetwork.fenix.inject.binder.ForwardingProtectedBinder;
-import es.revengenetwork.fenix.inject.binder.ProtectedBinder;
-import es.revengenetwork.fenix.inject.binder.ProtectedBinderImpl;
 import java.util.Objects;
+import org.fenixteam.fenix.inject.binder.ForwardingProtectedBinder;
+import org.fenixteam.fenix.inject.binder.ProtectedBinder;
+import org.fenixteam.fenix.inject.binder.ProtectedBinderImpl;
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 
